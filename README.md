@@ -21,4 +21,5 @@ Things you may want to cover:
 
 * Deployment instructions
 
-* ...
+https://github.com/karloku/mongoload
+http://qiita.com/karloku/items/8752aaa845137a3c3034
